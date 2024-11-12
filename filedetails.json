@@ -179,7 +179,7 @@ Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 -----END CERTIFICATE-----
 
 </cert>
-
+<tls-auth>
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -210,6 +210,6 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 
 </key>
-
+</tls-auth>
 "}]
 }
